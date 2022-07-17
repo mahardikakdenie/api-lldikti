@@ -1,0 +1,13 @@
+{
+    "name": "Akuntabilitas",
+    "alias": "akuntabilitas",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Akuntabilitas\\Providers\\AkuntabilitasServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

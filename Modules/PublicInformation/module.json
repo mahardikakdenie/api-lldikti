@@ -1,0 +1,13 @@
+{
+    "name": "PublicInformation",
+    "alias": "publicinformation",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PublicInformation\\Providers\\PublicInformationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

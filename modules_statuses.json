@@ -1,0 +1,13 @@
+{
+    "Auth": true,
+    "User": true,
+    "Information": true,
+    "News": true,
+    "Akuntabilitas": true,
+    "Service": true,
+    "Gallery": true,
+    "Media": true,
+    "Faq": true,
+    "Testimonial": true,
+    "PublicInformation": true
+}

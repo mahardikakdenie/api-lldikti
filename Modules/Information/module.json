@@ -1,0 +1,13 @@
+{
+    "name": "Information",
+    "alias": "information",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Information\\Providers\\InformationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
